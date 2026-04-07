@@ -3,7 +3,7 @@
 A functional, responsive, and styled To-Do List web application built for my internship challenge.
 
 ## Live Demo
-[Insert your Netlify link here once deployed]
+https://minimalist-to-do-list-app.netlify.app/
 
 ## Features Implemented
 - **Task Management:** Users can add tasks via an input field or by pressing the 'Enter' key.
