@@ -22,6 +22,6 @@ https://minimalist-to-do-list-app.netlify.app/
 - **Preserving Data while Filtering:** When building the "Pending" and "Completed" filter buttons, I initially struggled with how to hide tasks without permanently deleting them from the list. I solved this by creating a separate `displayTasks` array inside my render function. This allowed me to safely use the `.filter()` method to change what the user sees on the screen, while keeping the master `tasks` array completely intact in the background.
 
 ## How to Run the App
-No installation or build steps are required. 
+No installation or build steps are required.
 1. Clone this repository or download the ZIP file.
 2. Open the `index.html` file directly in any modern web browser.
