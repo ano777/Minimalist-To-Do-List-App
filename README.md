@@ -1,7 +1,7 @@
 # Minimalist-To-Do-List-App
 
 A functional, responsive, and styled To-Do List web application.
-
+ 
 ## Live Demo
 https://minimalist-to-do-list-app.netlify.app/
 
