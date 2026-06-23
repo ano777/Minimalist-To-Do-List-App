@@ -4,7 +4,7 @@ A functional, responsive, and styled To-Do List web application.
  
 ## Live Demo
 https://minimalist-to-do-list-app.netlify.app/
-
+  
 ## Features Implemented
 - **Task Management:** Users can add tasks via an input field or by pressing the 'Enter' key.
 - **Priority Levels:** Assign Low, Medium, or High priority to tasks, with color-coded visual badges.
