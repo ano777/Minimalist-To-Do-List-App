@@ -1,4 +1,4 @@
-# Minimalist-To-Do-List-App  
+# Minimalist-To-Do-List-App 
  
 A functional, responsive, and styled To-Do List web application.
  
